@@ -6,6 +6,8 @@
  * Output: SUCCESS or failure
  * Description: Takes a USER_id and maps it to a specified HOST_id
  */
+ 
+ // I'm just going to make a change to make sure I'm understanding how this works.
 
 include 'database.php';
 include 'beDJ_config.php';
